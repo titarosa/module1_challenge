@@ -1,12 +1,14 @@
 # Module 01 Challenge: Code Refactor Starter Code 
 
-In module challenge you will build a landing page using HTML and CSS.
+In this module challenge, you will be tasked with building a landing page using HTML and CSS. The objective is to refactor existing code to ensure it meets accessibility standards and follows best practices in web development.
 
 ## User Story
 
-AS A marketing agency, I WANT a codebase that follows accessibility standards, SO THAT our own site is optimized for search engines.
+As a marketing agency, I want a codebase that follows accessibility standards, so that our own site is optimized for search engines.
 
 ## Acceptance Criteria
+
+To successfully complete this challenge, ensure the following criteria are met:
 
 * GIVEN a webpage meets accessibility standards.
 
@@ -29,5 +31,9 @@ AS A marketing agency, I WANT a codebase that follows accessibility standards, S
 * WHEN I view the title element.
 
 * THEN I find a concise, descriptive title.
+
+## Additional Resources
+
+* [HTML Semantics Elements ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) 
 
 
