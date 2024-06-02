@@ -34,7 +34,11 @@ To successfully complete this challenge, ensure the following criteria are met:
 
 ## Additional Resources
 
-* [Agency Horiseon Website ](https://titarosa.github.io/module1_challenge/) 
-* [HTML Semantics Elements ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) 
+* [Agency Horiseon Website Link ](https://titarosa.github.io/module1_challenge/) 
+* [HTML Semantics Elements ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+## Website Deployed
+* [Agency Horiseon Website Website Screenshot](path/to/image.jpg)
+
 
 
