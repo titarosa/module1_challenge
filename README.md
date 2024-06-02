@@ -34,7 +34,14 @@ To successfully complete this challenge, ensure the following criteria are met:
 
 ## Additional Resources
 
-* [Agency Horiseon Website ](https://titarosa.github.io/module1_challenge/) 
-* [HTML Semantics Elements ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) 
+* [Agency Horiseon Website Link ](https://titarosa.github.io/module1_challenge/) 
+* [HTML Semantics Elements ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+## Website Deployed
+* ![Agency Horiseon Website Screenshot](website.png)
+* **Resemblance to Screenshots:** The application closely resembles the screenshots provided in the challenge instructions, meeting at least 90% similarity. The layout, styling, and content placement have been meticulously crafted to match the design expectations.
 
 
+## Repository Quality
+
+- **Challenges Faced:** One of the most challenging aspects of this project was pushing changes to GitHub, especially after attempting to create feature branches. Overcoming this hurdle involved creating the feature branches from the very beginning and ensuring that changes were pushed regularly as they were made, to ensure everything progressed smoothly.
