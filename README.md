@@ -39,7 +39,10 @@ To successfully complete this challenge, ensure the following criteria are met:
 
 ## Website Deployed
 * ![Agency Horiseon Website Screenshot](website.png)
+<<<<<<< HEAD
 * **Resemblance to Screenshots:** The application closely resembles the screenshots provided in the challenge instructions, meeting at least 90% similarity. The layout, styling, and content placement have been meticulously crafted to match the design expectations.
+=======
+>>>>>>> a7be9a3d0cb16ff0d5c97db25f6abc7709f930c6
 
 
 ## Repository Quality
