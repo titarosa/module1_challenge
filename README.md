@@ -38,7 +38,11 @@ To successfully complete this challenge, ensure the following criteria are met:
 * [HTML Semantics Elements ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## Website Deployed
+<<<<<<< HEAD
     ![Agency Horiseon Website Screenshot](website.png)
+=======
+![Agency Horiseon Website Screenshot](website.png)
+>>>>>>> 1fe3a81ae916c16199e82b90099c7c63f52b76bd
 * **Resemblance to Screenshots:** The application closely resembles the screenshots provided in the challenge instructions, meeting at least 90% similarity. The layout, styling, and content placement have been meticulously crafted to match the design expectations.
 
 
