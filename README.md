@@ -38,5 +38,5 @@ To successfully complete this challenge, ensure the following criteria are met:
 * [HTML Semantics Elements ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## Website Deployed
-* ![Agency Horiseon Website Screenshot](website)
+* ![Agency Horiseon Website Screenshot](website.png)
 
